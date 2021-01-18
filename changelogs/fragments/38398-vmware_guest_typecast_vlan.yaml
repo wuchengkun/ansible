@@ -1,0 +1,2 @@
+bugfixes:
+- vmware_guest - typecast VLAN ID to match various conditions. (https://github.com/ansible/ansible/pull/39793)

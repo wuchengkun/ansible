@@ -1,0 +1,2 @@
+bugfixes:
+- eos_l2_interface - fix eapi (https://github.com/ansible/ansible/pull/42270)

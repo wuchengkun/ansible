@@ -1,0 +1,2 @@
+bugfixes:
+- nxos_banner - fix multiline banner issue (https://github.com/ansible/ansible/pull/41026).
